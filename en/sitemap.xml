@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://locomotiva.co/2017/01/valide-a-demanda-do-seu-produto/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/2017/01/guia-para-construir-seu-mvp/</loc>
+    <lastmod>2017-01-08T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/tags/an%C3%A1lise/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://locomotiva.co/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://locomotiva.co/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/categories/gerenciamento/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/tags/mvp/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/post/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/tags/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://locomotiva.co/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://locomotiva.co/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/tags/valida%C3%A7%C3%A3o/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://locomotiva.co/</loc>
+    <lastmod>2017-01-13T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://locomotiva.co/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://locomotiva.co/"
+                />
+  </url>
+  
+</urlset>
