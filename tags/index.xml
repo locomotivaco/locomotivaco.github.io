@@ -1,40 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on locomotiva</title>
-    <link>http://locomotiva.co/tags/</link>
-    <description>Recent content in Tags on locomotiva</description>
+    <title>Tags on LOCOMOTIVA.co | Creating awesome software solutions for your business.</title>
+    <link>https://locomotiva.co/tags/</link>
+    <description>Recent content in Tags on LOCOMOTIVA.co | Creating awesome software solutions for your business.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
     <lastBuildDate>Fri, 13 Jan 2017 16:10:00 +0000</lastBuildDate>
     
-	<atom:link href="http://locomotiva.co/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://locomotiva.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Análise</title>
-      <link>http://locomotiva.co/tags/an%C3%A1lise/</link>
+      <link>https://locomotiva.co/tags/an%C3%A1lise/</link>
       <pubDate>Fri, 13 Jan 2017 16:10:00 +0000</pubDate>
       
-      <guid>http://locomotiva.co/tags/an%C3%A1lise/</guid>
+      <guid>https://locomotiva.co/tags/an%C3%A1lise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mvp</title>
-      <link>http://locomotiva.co/tags/mvp/</link>
+      <link>https://locomotiva.co/tags/mvp/</link>
       <pubDate>Fri, 13 Jan 2017 16:10:00 +0000</pubDate>
       
-      <guid>http://locomotiva.co/tags/mvp/</guid>
+      <guid>https://locomotiva.co/tags/mvp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validação</title>
-      <link>http://locomotiva.co/tags/valida%C3%A7%C3%A3o/</link>
+      <link>https://locomotiva.co/tags/valida%C3%A7%C3%A3o/</link>
       <pubDate>Fri, 13 Jan 2017 16:10:00 +0000</pubDate>
       
-      <guid>http://locomotiva.co/tags/valida%C3%A7%C3%A3o/</guid>
+      <guid>https://locomotiva.co/tags/valida%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     

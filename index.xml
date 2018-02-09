@@ -1,37 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>locomotiva</title>
-    <link>http://locomotiva.co/</link>
-    <description>Recent content on locomotiva</description>
+    <title>LOCOMOTIVA.co | Creating awesome software solutions for your business.</title>
+    <link>https://locomotiva.co/</link>
+    <description>Recent content on LOCOMOTIVA.co | Creating awesome software solutions for your business.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
     <lastBuildDate>Fri, 13 Jan 2017 16:10:00 +0000</lastBuildDate>
     
-	<atom:link href="http://locomotiva.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://locomotiva.co/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Valide a Demanda do seu Produto</title>
-      <link>http://locomotiva.co/2017/01/valide-a-demanda-do-seu-produto/</link>
+      <link>https://locomotiva.co/post/valide-a-demanda-do-seu-produto/</link>
       <pubDate>Fri, 13 Jan 2017 16:10:00 +0000</pubDate>
       
-      <guid>http://locomotiva.co/2017/01/valide-a-demanda-do-seu-produto/</guid>
+      <guid>https://locomotiva.co/post/valide-a-demanda-do-seu-produto/</guid>
       <description>Tão importante quanto encontrar sua grande ideia ou projeto, é descobrir o quanto as pessoas verdadeiramente precisam do seu produto.
 Para isso, você precisa responder uma grande pergunta: Ele realmente resolverá um problema?
 Antes de tudo, Valide Quando iniciamos nossa jornada no empreendedorismo, seja pela primeira ou pela décima vez, precisamos sempre nos fazer perguntas duras e diretas. Será que meu produto é necessário? Haverá público e demanda para ele?</description>
     </item>
     
     <item>
-      <title>Guia para Construir seu MVP</title>
-      <link>http://locomotiva.co/2017/01/guia-para-construir-seu-mvp/</link>
+      <title>EBANX</title>
+      <link>https://locomotiva.co/clientes/ebanx/</link>
       <pubDate>Sun, 08 Jan 2017 14:15:00 +0000</pubDate>
       
-      <guid>http://locomotiva.co/2017/01/guia-para-construir-seu-mvp/</guid>
+      <guid>https://locomotiva.co/clientes/ebanx/</guid>
       <description>Ideia validada, conceitos encaminhados e seu projeto está quase saindo do papel!
 O que fazer agora?
 Após a Validação Após incansáveis testes, conversas e validações, você está preparado para começar a execução do seu grande projeto ou ideia. Empreendedores sabem o quão excitante este momento, onde já podemos até ver a execução de nossa empresa brilhando, pode ser. E também o quão perigoso.
 A empolgação pode nos levar a crer que a execução de sua ideia deve ser milimétrica e perfeita em todos os seus detalhes.</description>
+    </item>
+    
+    <item>
+      <title>Guia para Construir seu MVP</title>
+      <link>https://locomotiva.co/post/guia-para-construir-seu-mvp/</link>
+      <pubDate>Sun, 08 Jan 2017 14:15:00 +0000</pubDate>
+      
+      <guid>https://locomotiva.co/post/guia-para-construir-seu-mvp/</guid>
+      <description>Ideia validada, conceitos encaminhados e seu projeto está quase saindo do papel!
+O que fazer agora?
+Após a Validação Após incansáveis testes, conversas e validações, você está preparado para começar a execução do seu grande projeto ou ideia. Empreendedores sabem o quão excitante este momento, onde já podemos até ver a execução de nossa empresa brilhando, pode ser. E também o quão perigoso.
+A empolgação pode nos levar a crer que a execução de sua ideia deve ser milimétrica e perfeita em todos os seus detalhes.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://locomotiva.co/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://locomotiva.co/contato/</guid>
+      <description>xD</description>
+    </item>
+    
+    <item>
+      <title>Serviços</title>
+      <link>https://locomotiva.co/servicos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://locomotiva.co/servicos/</guid>
+      <description></description>
     </item>
     
   </channel>
