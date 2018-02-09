@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on LOCOMOTIVA.co | Creating awesome software solutions for your business.</title>
-    <link>https://locomotiva.co/categories/</link>
-    <description>Recent content in Categories on LOCOMOTIVA.co | Creating awesome software solutions for your business.</description>
+    <title>Categories on LOCOMOTIVA.info | Creating awesome software solutions for your business.</title>
+    <link>https://locomotiva.info/categories/</link>
+    <description>Recent content in Categories on LOCOMOTIVA.info | Creating awesome software solutions for your business.</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://locomotiva.co/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://locomotiva.info/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
